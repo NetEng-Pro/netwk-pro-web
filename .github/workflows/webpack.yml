@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
-# This file is part of Network Engineering Pro
+# This file is part of Network Pro
 #
 # When a release is creeated or this workflow is manually triggered, it will:
 # (1) confirm the CodeQL analysis was successful, (2) test JavaScript using
