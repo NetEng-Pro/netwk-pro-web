@@ -1,15 +1,15 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
-<!-- This file is part of Network Engineering Pro -->
+<!-- This file is part of Network Pro -->
 
 <!--
-Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro (NetEng-Pro), a Free/Libre and Open Source Community
 Copyright © 2024-2025 Scott Lopez
 
 ---
 
 I. Creative Commons Attribution 4.0 International
 
-Network Engineering Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
+Network Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
 To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
 
 Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially.
@@ -26,7 +26,7 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 
 II. GNU General Public License
 
-Network Engineering Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Network Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE.
@@ -47,7 +47,7 @@ Web: <https://bio.neteng.pro>
 
 ### 1. Introduction
 
-Welcome to Network Engineering Pro ("NetEng-Pro"), a Free/Libre and Open Source
+Welcome to Network Pro ("NetEng-Pro"), a Free/Libre and Open Source
 Software Community. By accessing or using any of our platforms, you agree to be
 bound by these Terms and Conditions ("T&C"). If you do not agree to these terms,
 you must refrain from using our services. _In this document, "Network
@@ -108,7 +108,7 @@ related to your use of our services.
 
 ### 7. Governing Law and Jurisdiction
 
-Network Engineering Pro is an unincorporated nonprofit organization based in
+Network Pro is an unincorporated nonprofit organization based in
 Arizona, United States. Any legal action or dispute arising from these Terms and
 Conditions shall be resolved exclusively in the courts of Maricopa County,
 Arizona, or the U.S. District Court for the District of Arizona. These Terms and
@@ -139,7 +139,7 @@ discontinue use of all NetEng-Pro platforms immediately._**
 
 &nbsp;
 
-**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro](https://netwk.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  

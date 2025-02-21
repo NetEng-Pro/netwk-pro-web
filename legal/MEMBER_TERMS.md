@@ -1,15 +1,15 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
-<!-- This file is part of Network Engineering Pro -->
+<!-- This file is part of Network Pro -->
 
 <!--
-Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro (NetEng-Pro), a Free/Libre and Open Source Community
 Copyright © 2024-2025 Scott Lopez
 
 ---
 
 I. Creative Commons Attribution 4.0 International
 
-Network Engineering Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
+Network Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
 To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
 
 Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially.
@@ -26,7 +26,7 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 
 II. GNU General Public License
 
-Network Engineering Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Network Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE.
@@ -47,7 +47,7 @@ Web: <https://bio.neteng.pro>
 
 ## About
 
-Welcome to Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source community. By accessing or using any of our platforms, you agree to comply with the following Terms and Conditions ("T&C").
+Welcome to Network Pro (NetEng-Pro), a Free/Libre and Open Source community. By accessing or using any of our platforms, you agree to comply with the following Terms and Conditions ("T&C").
 
 ### _Partner Platforms_
 
@@ -66,11 +66,11 @@ Welcome to Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source co
 
 2. **Use at Your Own Risk:** Individuals who choose to use NetEng-Pro 'partner platforms' do so at their own risk. We cannot guarantee the security, integrity, or reliability of the data stored on external infrastructure, over which we have no control.
 
-3. **Limitation of Liability:** In no event shall Network Engineering Pro or its individual members be liable for any damages, including but not limited to data loss, loss of profits, or any other incidental, consequential, or punitive damages arising out of or related to the use of our partner platforms.
+3. **Limitation of Liability:** In no event shall Network Pro or its individual members be liable for any damages, including but not limited to data loss, loss of profits, or any other incidental, consequential, or punitive damages arising out of or related to the use of our partner platforms.
 
 4. **Indemnification:** By using NetEng-Pro's partner platforms, you agree to indemnify and hold us harmless from any claims, damages, losses, liabilities, and expenses arising from your usage.
 
-**By accessing or using Network Engineering Pro's website and/or partner platforms, as defined in this document, you acknowledge and agree to these Terms and Conditions.**
+**By accessing or using Network Pro's website and/or partner platforms, as defined in this document, you acknowledge and agree to these Terms and Conditions.**
 
 > **If you do not agree with any part of the terms outlined above, please
 > refrain from using our services.**
@@ -103,7 +103,7 @@ Terms and Conditions last modified 1/23/2025. T&C are subject to change at any t
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
 
-**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro](https://netwk.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
