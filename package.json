@@ -1,8 +1,8 @@
 {
   "name": "@neteng-pro/netwk-pro-web",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "private": false,
-  "description": "Locking Down Networks, Unlocking Confidence &mdash; Network Pro",
+  "description": "Locking Down Networks, Unlocking Confidence — Network Pro",
   "keywords": [
     "neteng-pro",
     "android",

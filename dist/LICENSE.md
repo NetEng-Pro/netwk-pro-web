@@ -2,7 +2,7 @@
 <!-- This file is part of Network Pro -->
 
 <!--
-Network Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro (NetEng-Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
@@ -51,6 +51,7 @@ Web: <https://bio.neteng.pro>
 **Table of Contents**
 
 - [Copyright](#copyright)
+- [Graphics](#graphics)
 - [Abbreviated Business Name](#neteng-pro)
 - [Licensing](#licensing)
   - [Are you sure you can do that?](#questions)
@@ -64,7 +65,7 @@ Web: <https://bio.neteng.pro>
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-**[Network Pro](https://netwk.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro](https://netwk.pro/)**  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 </code>
@@ -75,6 +76,12 @@ guarantees regarding the Licensed Material and assumes no liability for its use.
 
 > > _Unless otherwise noted, Network Pro (NetEng-Pro) in its'
 > > entirety is available exclusively under the licenses outlined herein._
+
+---
+
+## <a id="graphics">Graphics</a>
+
+With respect to original website graphics _only_, all rights are reserved. Graphics **are not** to be used under CC BY 4.0 or the GPL. The copyright holder retains exclusive rights to use and release graphic content. See [Contact](#contact) if you'd like to request an exception.
 
 ---
 
@@ -240,7 +247,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
 
-**[Network Pro](https://netwk.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro](https://netwk.pro/)** (NetEng-Pro)  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  

@@ -94,6 +94,8 @@ export default merge(common, {
         { from: "favicon-192.png", to: "favicon-192.png" },
         { from: "legal.html", to: "legal.html" },
         { from: "LICENSE.md", to: "LICENSE.md" },
+        { from: "LICENSE.GPL3.md", to: "LICENSE.GPL3.md" },
+        { from: "LICENSE.CCBY.md", to: "LICENSE.CCBY.md" },
         { from: "README.md", to: "README.md" },
         { from: "404.html", to: "404.html" },
         { from: "CNAME", to: "." }, // Correct path to copy CNAME to the root directory

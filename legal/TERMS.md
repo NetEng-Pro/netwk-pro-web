@@ -2,7 +2,7 @@
 <!-- This file is part of Network Pro -->
 
 <!--
-Network Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro (NetEng-Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
@@ -47,15 +47,7 @@ Web: <https://bio.neteng.pro>
 
 ### 1. Introduction
 
-Welcome to Network Pro ("NetEng-Pro"), a Free/Libre and Open Source
-Software Community. By accessing or using any of our platforms, you agree to be
-bound by these Terms and Conditions ("T&C"). If you do not agree to these terms,
-you must refrain from using our services. _In this document, "Network
-Engineering Pro" and "NetEng-Pro" collectively refer to the community, its
-platforms, and all individual members._
-
-ℹ️ **These terms safeguard both the community and its members from potential
-legal issues arising from the use of our services.**
+Welcome to Network Pro (NetEng-Pro)! By accessing or using any of our platforms, you agree to be bound by these Terms and Conditions ("T&C"). If you do not agree to these terms, please refrain from using our services. _For the purposes of this document, "Network Pro" and "NetEng-Pro" collectively refer to the organization, its owners, operators, and all associated platforms._
 
 > 📌 Note: This is not an exhaustive list of platforms to which these terms
 > apply. Additional platforms not explicitly mentioned may still be subject to
@@ -70,8 +62,7 @@ including but not limited to:
 
 - **Website (hosted via GitHub Pages)**
 
-- **Communication platforms such as Slack, Microsoft Teams, and other instant
-  messaging services**
+- **Communication platforms such as Slack, Microsoft Teams, Discord, and other instant messaging services**
 
 - **Stack Overflow Teams**
 
@@ -94,21 +85,16 @@ third-party infrastructure.
 
 ### 5. Limitation of Liability
 
-To the fullest extent permitted by law, NetEng-Pro, its affiliates, members, and
-contributors shall not be liable for any direct, indirect, incidental,
-consequential, or punitive damages, including but not limited to data loss, loss
-of profits, or damages arising from reliance on or use of our platforms.
+To the fullest extent permitted by law, NetEng-Pro, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
 
 ### 6. Indemnification
 
 By using NetEng-Pro's platforms, you agree to indemnify, defend, and hold
-harmless NetEng-Pro, its affiliates, members, and contributors from any claims,
-damages, liabilities, losses, or expenses (including legal fees) arising from or
-related to your use of our services.
+harmless NetEng-Pro, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
 
 ### 7. Governing Law and Jurisdiction
 
-Network Pro is an unincorporated nonprofit organization based in
+Network Pro is an unincorporated organization based in
 Arizona, United States. Any legal action or dispute arising from these Terms and
 Conditions shall be resolved exclusively in the courts of Maricopa County,
 Arizona, or the U.S. District Court for the District of Arizona. These Terms and
@@ -121,8 +107,8 @@ applicable provisions of the [United States Code](https://uscode.house.gov/)
 
 By accessing or using any of NetEng-Pro’s platforms, whether specifically listed
 in this document or not, you acknowledge and agree to these Terms and
-Conditions. Continued use of our services constitutes ongoing acceptance of
-these terms.
+Conditions. **Continued use of our services constitutes ongoing acceptance of
+these terms.**
 
 &nbsp;
 
@@ -135,11 +121,11 @@ discontinue use of all NetEng-Pro platforms immediately._**
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
 
-**Terms and Conditions last modified 2/6/2025. T&C are subject to change at any time, for any reason, without notice.**
+**Terms and Conditions last modified 2/21/2025. T&C are subject to change at any time, for any reason, without notice.**
 
 &nbsp;
 
-**[Network Pro](https://netwk.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro](https://netwk.pro/)** (NetEng-Pro)  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  

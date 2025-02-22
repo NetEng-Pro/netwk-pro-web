@@ -15,7 +15,7 @@
 #
 # For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 
-name: Build Webpack, Publish to npmjs
+name: Build Webpack, Publish to npmjs and GPR
 
 on:
   release:
@@ -95,7 +95,7 @@ jobs:
         run: cp package.json dist/
 
   publish-npm:
-    needs: build
+    needs: [check-codeql, build]
     runs-on: ubuntu-24.04
     permissions:
       contents: read
@@ -141,7 +141,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
   publish-gpr:
-    needs: build
+    needs: [check-codeql, build]
     runs-on: ubuntu-24.04
     # Complete workflow even if this job fails
     continue-on-error: true
