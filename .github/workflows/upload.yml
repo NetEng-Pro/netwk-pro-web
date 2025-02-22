@@ -1,15 +1,15 @@
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 # This file is part of Network Pro
 #
-# Deploy static content from ./dist to GitHub Pages when the "Build/Test
-# Webpack, Publish to npm" workflow completes successfully OR when manually
+# Deploy static content from ./dist to GitHub Pages when the "Build
+# Webpack, Publish to js" workflow completes successfully (OR) when manually
 # triggered.
 
 name: Deploy static content to GitHub Pages
 
 on:
   workflow_run:
-    workflows: ["Build/Test Webpack, Publish to npmjs"]
+    workflows: ["Build Webpack, Publish to npmjs"]
     types:
       - completed
   workflow_dispatch:
@@ -40,6 +40,12 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      #- name: Ensure dist directory exists
+      #  run: mkdir -p dist
+
+      #- name: List files in dist directory
+      #  run: ls -la ./dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

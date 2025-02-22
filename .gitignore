@@ -6,13 +6,12 @@
 
 
 ### Custom Ignores ###
-python-venv/
-.webpack_cache/
 .github/workflows/disabled/
-img/.favicon-old
 .orig/
-server.mjs
+.webpack_cache/
+python-venv/
 crypto.mjs
+server.mjs
 tests.mjs
 
 
