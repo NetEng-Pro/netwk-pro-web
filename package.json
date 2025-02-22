@@ -1,8 +1,8 @@
 {
   "name": "@neteng-pro/netwk-pro-web",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": false,
-  "description": "Free/Libre & Open Source Software, security, and digital privacy for Android & Linux",
+  "description": "Locking Down Networks, Unlocking Confidence &mdash; Network Pro",
   "keywords": [
     "neteng-pro",
     "android",
