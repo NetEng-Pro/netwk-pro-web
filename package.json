@@ -1,6 +1,6 @@
 {
   "name": "@neteng-pro/netwk-pro-web",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "Locking Down Networks, Unlocking Confidence — Network Pro",
   "keywords": [
@@ -33,7 +33,8 @@
     "test": "mocha",
     "lint": "npx eslint && prettier --check .",
     "fix": "npx eslint --fix && prettier --write .",
-    "clean": "rm -rf dist node_modules package-lock.json",
+    "clean": "rm -rf dist/* && npm update",
+    "ci": "rm -rf dist/* node_modules package-lock.json && npm install",
     "start": "webpack serve --open --config webpack.config.dev.mjs",
     "build": "webpack --config webpack.config.prod.mjs",
     "prepare": "husky"
@@ -64,6 +65,7 @@
     "globals": "^15.15.0",
     "html-webpack-plugin": "^5.6.3",
     "husky": "^9.1.7",
+    "markdownlint": "^0.37.4",
     "mocha": "^11.0.1",
     "postcss": "^8.5.1",
     "postcss-loader": "^8.1.1",
