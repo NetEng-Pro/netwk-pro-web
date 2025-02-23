@@ -2,7 +2,7 @@
 <!-- This file is part of Network Pro -->
 
 <!--
-Network Pro Strategies (NetEng-Pro)
+Network Pro Strategies (Network Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
@@ -47,7 +47,7 @@ Web: <https://bio.neteng.pro>
 
 ### 1. Introduction
 
-Welcome to Network Pro Strategies (Network Pro)! By accessing or using any of our platforms, you agree to be bound by these Terms and Conditions ("T&C"). If you do not agree to these terms, please refrain from using our services. _For the purposes of this document, "Network Pro Strategies" and "Network Pro" collectively refer to the business, its owners, operators, and all associated platforms._
+Welcome to Network Pro Strategies ("Network Pro")! By accessing or using any of our platforms, you agree to be bound by these Terms and Conditions ("T&C"). If you do not agree to these terms, please refrain from using our services. _For the purposes of this document, "Network Pro Strategies" and "Network Pro" collectively refer to the business, its owners, operators, and all associated platforms._
 
 > 📌 Note: This is not an exhaustive list of platforms to which these terms
 > apply. Additional platforms not explicitly mentioned may still be subject to
@@ -55,7 +55,7 @@ Welcome to Network Pro Strategies (Network Pro)! By accessing or using any of ou
 
 ### 2. Platforms Covered
 
-These Terms & Conditions apply to all platforms associated with NetEng-Pro,
+These Terms & Conditions apply to all platforms associated with Network Pro,
 including but not limited to:
 
 - **GitHub**
@@ -73,24 +73,24 @@ including but not limited to:
 
 ### 3. Disclaimer of Warranties
 
-NetEng-Pro provides its platforms and services on an "as is" and "as available"
+Network Pro provides its platforms and services on an "as is" and "as available"
 basis without warranties of any kind, whether express or implied. We do not
 guarantee the accuracy, reliability, availability, or security of our services.
 
 ### 4. Assumption of Risk
 
-Your use of NetEng-Pro platforms is entirely at your own risk. We do not
+Your use of Network Pro platforms is entirely at your own risk. We do not
 guarantee the security, integrity, or reliability of data stored on external or
 third-party infrastructure.
 
 ### 5. Limitation of Liability
 
-To the fullest extent permitted by law, NetEng-Pro, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
+To the fullest extent permitted by law, Network Pro, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
 
 ### 6. Indemnification
 
-By using NetEng-Pro's platforms, you agree to indemnify, defend, and hold
-harmless NetEng-Pro, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
+By using Network Pro's platforms, you agree to indemnify, defend, and hold
+harmless Network Pro, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
 
 ### 7. Governing Law and Jurisdiction
 
@@ -98,15 +98,16 @@ Network Pro Strategies is an unincorporated business based in Arizona, United St
 
 ### 8. Acceptance of Terms
 
-By accessing or using any of NetEng-Pro’s platforms, whether specifically listed
-in this document or not, you acknowledge and agree to these Terms and
+By accessing or using any of Network Pro’s platforms, whether specifically listed in this document or not, you acknowledge and agree to these Terms and
 Conditions. **Continued use of our services constitutes ongoing acceptance of
 these terms.**
 
 &nbsp;
 
 ⚠️ **_If you do not agree with any part of these Terms and Conditions, you must
-discontinue use of all NetEng-Pro platforms immediately._**
+discontinue use of all Network Pro platforms immediately._**
+
+&nbsp;
 
 <sub>[Top](#top)</sub>
 
@@ -118,7 +119,7 @@ discontinue use of all NetEng-Pro platforms immediately._**
 
 &nbsp;
 
-**[Network Pro Strategies](https://netwk.pro/)** (NetEng-Pro)  
+**[Network Pro Strategies](https://netwk.pro/)** (Network Pro)  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  

@@ -179,7 +179,7 @@ this License—may be available as further defined within this document.
 |
 [ODT](https://github.com/NetEng-Pro/netwk-pro-web/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
 
-Network Pro (NetEng-Pro) is free software: you can redistribute it
+Network Pro (Network Pro) is free software: you can redistribute it
 and/or modify it under the terms of the **GNU General Public License** ("GNU
 GPL") as published by the [Free Software Foundation](https://www.fsf.org/),
 either version 3 of the License, or (at your option) any later version.
