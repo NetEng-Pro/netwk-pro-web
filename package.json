@@ -1,18 +1,14 @@
 {
   "name": "@neteng-pro/netwk-pro-web",
-  "version": "0.0.11",
+  "version": "0.1.0",
   "private": false,
   "description": "Locking Down Networks, Unlocking Confidence — Network Pro",
   "keywords": [
-    "neteng-pro",
-    "android",
-    "linux",
-    "open-source",
-    "floss",
-    "foss",
     "security",
     "privacy",
-    "cybersecurity"
+    "cybersecurity",
+    "advisory",
+    "consulting"
   ],
   "homepage": "https://netwk.pro",
   "bugs": {

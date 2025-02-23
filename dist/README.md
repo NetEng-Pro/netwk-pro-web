@@ -2,7 +2,7 @@
 <!-- This file is part of Network Pro -->
 
 <!--
-Network Pro (NetEng-Pro)
+Network Pro Strategies (Network Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
@@ -50,126 +50,23 @@ Web: <https://bio.neteng.pro>
 [![Build/Test Webpack, Publish to npmjs](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml) [![Deploy static content to GitHub Pages](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml)  
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-**Network Pro (NetEng-Pro)** is a dedicated community focused on providing guides, reference materials, and resources for **Free/Libre and Open Source Software**, with a primary emphasis on **Android** and **Linux** projects.
+At **Network Pro Strategies ("Network Pro")**, we specialize in network security, cyber security, and privacy consulting, offering both strategic advisory services and hands-on implementation. Our expertise extends beyond consulting&mdash;we are committed to public advocacy and education, empowering businesses, policymakers, and the public with the knowledge and tools to navigate today’s complex digital landscape.
 
-_**Table of Contents**_
-
-- [About Us](#about-us)
-  - [Focus Areas](#focus)
-- [Mission](#mission)
-- [Collective Knowledge](#cknow)
-- [About Me](#about-me)
+Whether securing critical infrastructure, advising on compliance, or leading cyber security awareness initiatives, we bring cutting-edge solutions and strategic insights to protect what matters most.
 
 &nbsp;
-
----
-
-## <a id="about-us">About Us</a>
-
-NetEng-Pro advocates for **truly free software**—a distinction that goes beyond
-cost. To understand the deeper meaning of “free” in this context, check out:
-
-- [The FSF/GNU definition of free software](https://www.gnu.org/philosophy/free-sw.html)
-- [A less technical explanation](https://itsfoss.com/what-is-foss/#free-in-free-and-open-source-software-does-not-mean-free-of-cost)
-
-As a proud **member of the
-[Free Software Foundation (FSF)](https://www.fsf.org/)**, our mission is to
-promote and advance software freedom, aligning with the
-[FSF/GNU principles](https://www.gnu.org/philosophy/free-sw.html)
-and the four essential freedoms. However, we critically evaluate all available solutions to ensure the best approach for privacy, security, and user empowerment.
-
-### <a id="focus">Our Focus Areas</a>
-
-🔹 **Privacy & Security** – Covering topics like **browser hardening,
-privacy-focused DNS services, and secure communications**  
-🔹 **FLOSS Advocacy** – Encouraging ethical software choices and
-community-driven development  
-🔹 **Technical Discussions & Guides** – Providing in-depth resources to help
-users navigate the world of open-source technology
-
-&nbsp;
-
-<sub>[Top](#top)</sub>
-
----
-
-## <a id="mission">Mission</a>
-
-At **Network Pro (NetEng-Pro)**, we champion a better, more secure
-digital world through **free and open source solutions**.
-
-Our mission:  
-1️⃣ **Advocate for Free Software & Software Freedom** – Amplifying Android and
-Linux FLOSS apps.  
-2️⃣ 📚 **Create Actionable Resources** – From browser hardening guides to
-cybersecurity tips.  
-3️⃣ 🔒 **Raise Awareness** – Cybersecurity and digital privacy are at the core of
-what we do.  
-4️⃣ 💡 **Empower Through Guidance** – Secure your devices, protect your networks,
-and reclaim your privacy.
-
-Because we believe in **empowering choices, securing privacy with open
-solutions**, we’re more than a community—we’re a movement for secure, open, and
-private technology.
-
-🌐 **Let’s build a safer, more open future together.**
-
-🤝 Join with us. Collaborate with us. Share our vision.
-
-- Community Signup 📃: <https://join.neteng.pro>
-
-> 🔒 **NOTE:** Community signups are end-to-end encrypted for your protection.
-
-&nbsp; <!-- space for clarity -->
-
-<sub>[Top](#top)</sub>
-
----
-
-## <a id="cknow">💡 Collective Knowledge</a>
-
-**Recognizing the limitations of individual-driven privacy websites and outdated
-lists, we are dedicated to offering a broad range of current and diverse views
-on privacy-centric apps and projects.** We wholeheartedly encourage (and expect)
-community input to enrich and maintain our collective knowledge base.
-
-Individual-driven projects and lists inevitably become outdated quickly; it is
-our belief that effective lists and privacy documentation **_MUST_** be community-driven and maintained. [NetEng-Pro Discussions](https://discuss.neteng.pro) on GitHub will serve as our primary collaboration platform. Slack and a Stack Overflow Team are also available to community members.
-
-&nbsp;
-
-### Current Project
-
-Our primary short-term objective is to curate an up-to-date list of recommended
-FLOSS (and occasionally notable closed-source) apps for Android users.
-
-> **The starting point for this project is the
-> [Best-FOSS-Apps-for-Android](https://github.com/NetEng-Pro/Best-FOSS-Apps-for-Android)
-> repository.**
-
-> _The repo was forked from a now-abandoned project. Some edits have been made,
-> but it needs a rewrite (the original author used a lot of foreign characters)
-> and community review / input._
-
-&nbsp;
-
-<sub>[Top](#top)</sub>
-
----
 
 ## <a id="about-me">🚀 About Me</a>
 
 [<img src="img/sd311.png" width="150px" height="150px" alt="SunDevil311" />](https://github.com/SunDevil311)
 
-I'm a Network Security Enginneer specializing in [Palo Alto Networks](https://www.paloaltonetworks.com) solutions, including PAN-OS [Next-Gen Firewalls](https://docs.paloaltonetworks.com/pan-os) (NGFWs) and [Panorama management server](https://docs.paloaltonetworks.com/panorama).
+I am an experienced Network Security and Cyber Security Engineer with over 10 years of experience in designing, implementing, and securing complex network infrastructure. Passionate about advancing network and cyber security standards through continous innovation, with expertise driving secure, scalable, and efficient infrastructures across global and regional projects.
 
-With several years of experience in Android development, I have a strong passion
-for integrating free and open source software (FLOSS) into my workflow. My
-journey began with a desire to replace proprietary apps with open source alternatives, and ever since, I’ve been exploring and curating the best FLOSS
-apps available.
+Systems that I specialize in:
 
-Additionally, I've been exploring various self-hosted solutions and plan to
-provide _Best Practices_ documentation for beginners, among other content.
+- [Palo Alto Networks](https://www.paloaltonetworks.com)
+- [PAN-OS Next-Gen Firewalls](https://docs.paloaltonetworks.com/pan-os)
+- [Panorama](https://docs.paloaltonetworks.com/panorama)
 
 &nbsp; <!-- space for clarity -->
 
@@ -192,7 +89,7 @@ provide _Best Practices_ documentation for beginners, among other content.
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-**[Network Pro](https://netwk.pro/)** (NetEng-Pro)  
+**[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
@@ -204,6 +101,6 @@ either version 3 of the License, or (at your option) any later version.
 
 <span style="text-align: center; font-size: 14px; font-weight: bold;">
 
-[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md)
+[Copyright and Licensing](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/LICENSE.md) &nbsp; | &nbsp; [Terms and Conditions](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/legal/TERMS.md)
 
 </span>

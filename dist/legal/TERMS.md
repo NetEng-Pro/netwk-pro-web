@@ -2,7 +2,7 @@
 <!-- This file is part of Network Pro -->
 
 <!--
-Network Pro (NetEng-Pro)
+Network Pro Strategies (NetEng-Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
@@ -47,7 +47,7 @@ Web: <https://bio.neteng.pro>
 
 ### 1. Introduction
 
-Welcome to Network Pro (NetEng-Pro)! By accessing or using any of our platforms, you agree to be bound by these Terms and Conditions ("T&C"). If you do not agree to these terms, please refrain from using our services. _For the purposes of this document, "Network Pro" and "NetEng-Pro" collectively refer to the organization, its owners, operators, and all associated platforms._
+Welcome to Network Pro Strategies (Network Pro)! By accessing or using any of our platforms, you agree to be bound by these Terms and Conditions ("T&C"). If you do not agree to these terms, please refrain from using our services. _For the purposes of this document, "Network Pro Strategies" and "Network Pro" collectively refer to the business, its owners, operators, and all associated platforms._
 
 > 📌 Note: This is not an exhaustive list of platforms to which these terms
 > apply. Additional platforms not explicitly mentioned may still be subject to
@@ -94,14 +94,7 @@ harmless NetEng-Pro, its affiliates, owners, operators, and contributors from an
 
 ### 7. Governing Law and Jurisdiction
 
-Network Pro is an unincorporated organization based in
-Arizona, United States. Any legal action or dispute arising from these Terms and
-Conditions shall be resolved exclusively in the courts of Maricopa County,
-Arizona, or the U.S. District Court for the District of Arizona. These Terms and
-Conditions are governed by and construed in accordance with the
-[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) ("A.R.S") and
-applicable provisions of the [United States Code](https://uscode.house.gov/)
-("U.S.C.").
+Network Pro Strategies is an unincorporated business based in Arizona, United States. Any legal action or dispute arising from these Terms and Conditions shall be resolved exclusively in the courts of Maricopa County, Arizona, or the U.S. District Court for the District of Arizona. These Terms and Conditions are governed by and construed in accordance with the [Arizona Revised Statutes](https://www.azleg.gov/arstitle/) ("A.R.S") and applicable provisions of the [United States Code](https://uscode.house.gov/) ("U.S.C.").
 
 ### 8. Acceptance of Terms
 
@@ -121,11 +114,11 @@ discontinue use of all NetEng-Pro platforms immediately._**
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
 
-**Terms and Conditions last modified 2/21/2025. T&C are subject to change at any time, for any reason, without notice.**
+**Terms and Conditions last modified 2/22/2025. T&C are subject to change at any time, for any reason, without notice.**
 
 &nbsp;
 
-**[Network Pro](https://netwk.pro/)** (NetEng-Pro)  
+**[Network Pro Strategies](https://netwk.pro/)** (NetEng-Pro)  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
@@ -137,7 +130,7 @@ either version 3 of the License, or (at your option) any later version.
 
 <span style="text-align: center; font-size: 14px; font-weight: bold;">
 
-[Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/LICENSE.md)
+[Copyright and Licensing](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/legal/LICENSE.md)
 &nbsp; | &nbsp; Terms and Conditions
 
 </span>
