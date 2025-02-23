@@ -48,7 +48,7 @@ Web: <https://bio.neteng.pro>
 
 # <a id="top">Copyright and Licensing</a>
 
-**Table of Contents**
+**Table of Contents** <!-- markdownlint-disable MD036 -->
 
 - [Copyright](#copyright)
   - [Graphics](#graphics)
@@ -104,7 +104,7 @@ Network Pro is available under the following licenses:
 
 &nbsp;
 
-#### <a id="questions">_Are you sure you can do that?_</a>
+#### <a id="questions">_Are you sure you can do that?_</a> <!-- markdownlint-disable MD001 -->
 
 - "You may offer the licensed material under other licenses in addition to the
   CC license (a practice commonly referred to as 'dual licensing')."
@@ -207,12 +207,12 @@ this material. If not, see
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-_**Website base structure provided by HTML5 Boilerplate:**_  
+**_Website base structure provided by HTML5 Boilerplate:_**  
 <https://html5boilerplate.com/>
 
 </code>
 
-```
+```markdown
 ################################################################################
 
 Copyright (c) HTML5 Boilerplate

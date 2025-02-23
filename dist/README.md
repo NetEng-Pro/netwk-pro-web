@@ -47,8 +47,8 @@ Web: <https://bio.neteng.pro>
 
 # <a id="top">Network Pro</a>
 
-[![Build/Test Webpack, Publish to npmjs](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml) [![Deploy static content to GitHub Pages](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml)  
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Build Webpack, Publish to Registries](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml)  
+[![NPM Version](https://img.shields.io/npm/v/%40neteng-pro%2Fnetwk-pro-web?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@neteng-pro/netwk-pro-web) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 At **Network Pro Strategies ("Network Pro")**, we specialize in network security, cyber security, and privacy consulting, offering both strategic advisory services and hands-on implementation. Our expertise extends beyond consulting&mdash;we are committed to public advocacy and education, empowering businesses, policymakers, and the public with the knowledge and tools to navigate today’s complex digital landscape.
 
@@ -60,7 +60,7 @@ Whether securing critical infrastructure, advising on compliance, or leading cyb
 
 [<img src="img/sd311.png" width="150px" height="150px" alt="SunDevil311" />](https://github.com/SunDevil311)
 
-I am an experienced Network Security and Cyber Security Engineer with over 10 years of experience in designing, implementing, and securing complex network infrastructure. Passionate about advancing network and cyber security standards through continous innovation, with expertise driving secure, scalable, and efficient infrastructures across global and regional projects.
+I'm an experienced Network Security and Cyber Security Engineer with over 10 years of experience in designing, implementing, and securing complex network infrastructure. Passionate about advancing network and cyber security standards through continous innovation, with expertise driving secure, scalable, and efficient infrastructures across global and regional projects.
 
 Systems that I specialize in:
 
@@ -82,8 +82,8 @@ Systems that I specialize in:
 
 ---
 
-| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](img/gpl3-small.png)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
-| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | ![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b) | [![fsf](img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
+| :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 
 &nbsp;
 
